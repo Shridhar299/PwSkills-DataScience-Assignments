@@ -22,9 +22,6 @@ All the assignments are completed using Jupyter notebook in a way I understood t
 
 There is also a scoreboard in the course to encourage people to complete assignments correctly and on timely basis and currently I am proudly at the top of the leaderboard ❗❗
 
-<img width="1440" alt="Screenshot 2023-10-12 at 1 45 36 PM" src="https://github.com/rachitdani/PwSkills-DataScience-Assignments/assets/79761144/759b6aaa-b5f4-494d-92cf-2303cd726db9">
-
-
 
 ## Contribution
 
